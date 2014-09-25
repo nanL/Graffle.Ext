@@ -1,9 +1,12 @@
 #GraffleExt
 
-> 这里是我个人制作的 [OminiGraffle](https://www.omnigroup.com/omnigraffle) 扩展包括 Stencil 和 Template 模板等内容。
+> 这里是我个人制作的 [OminiGraffle](https://www.omnigroup.com/omnigraffle) 扩展包括 Stencil 和 Template 模板等内容。所有的图标 Stencil 率先支持关键字搜索如下图。
 
 ##Font Awesome 4.2.0 Stencil
 > [Font Awesome](http://fortawesome.github.io/Font-Awesome/) gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+
+<img width="45%" src="STATIC/FontAwesome1.png">
+<img width="45%" src="STATIC/FontAwesome2.png">
 
 使用方法：安装 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf) 字体；下载 [Font Awesome Stencil](FontAwesome420.gStencil?raw=true) 模板。
 
