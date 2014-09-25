@@ -13,5 +13,5 @@
 ##GlyhIcons 1.8.0 Stencil （850 Icons）
 > [GlyhIcons](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols. Icons are designed primarily for toolbars and navigation bars in OS X, the applications for iPhone, iPad and other Apple devices.
 
-使用方法：安装 [GlyphIcons](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-regular.ttf) 字体；安装 [GlyphIcons Halflings](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-halflings-regular.ttf) 字体；安装 [GlyphIcons Social](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-social-regular.ttf) 字体；安装 [GlyphIcons Filetypes](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-filetypes-regular.ttf) 字体；下载 [GlyhIcons Stencil](https://github.com/NanL/GraffleExt) 模板。
+使用方法：安装 [GlyphIcons](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-regular.ttf) 字体；安装 [GlyphIcons Halflings](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-halflings-regular.ttf) 字体；安装 [GlyphIcons Social](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-social-regular.ttf) 字体；安装 [GlyphIcons Filetypes](http://glyphicons.com/wp-content/themes/glyphicons/sk/public/fonts/glyphicons-filetypes-regular.ttf) 字体；下载 Coming Soon 。
 
