@@ -3,6 +3,7 @@
 > 这里是我个人制作的 [OminiGraffle](https://www.omnigroup.com/omnigraffle) 扩展包括 Stencil 和 Template 模板等内容。所有的图标 Stencil 都支持关键字搜索如下图。
 > Searchable Support !!
 >
+> + 2015.05.26 增加 Bluemap Template 0526
 > + 2014.09.24 更新 Font Awesome 4.2.0
 > + 2014.09.29 更新 GlyhIcons 1.8.1
 > + 2015.02.04 更新 Font Awesome 4.3.0
