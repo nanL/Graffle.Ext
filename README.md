@@ -9,7 +9,7 @@
 > + 2015.05.26 增加 Bluemap Template 0526
 > + 2015.07.29 更新 Font Awesome 4.4.0
 
-##Font Awesome 4.3.0 Stencil （519 Icons）
+##Font Awesome 4.4.0 Stencil （585 Icons）
 > [Font Awesome](http://fortawesome.github.io/Font-Awesome/) gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
 ![Searchable Font Awesome Stencil](STATIC/FontAwesome0.png)
