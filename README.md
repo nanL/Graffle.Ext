@@ -26,7 +26,7 @@
 
 ##gTemplate：BlueMap
 
-蓝图模板，网页应用及移动应用模板。
+> 蓝图模板，网页应用及移动应用模板。
 
 ![BlueMap Template](STATIC/BlueMap.png)
 
