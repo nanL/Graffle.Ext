@@ -19,14 +19,14 @@
 
 ![Searchable Font Awesome Stencil](STATIC/FontAwesome.png)
 
-使用方法：安装 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf) 字体；下载 [Font Awesome Stencil](FontAwesome450.gStencil?raw=true) 模板。
+使用方法：安装 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf) 字体；下载 [Font Awesome Stencil](Stencils/FontAwesome450.gStencil?raw=true) 模板。
 
 ## gStencil：GlyhIcons 1.9.2 Stencil （1310 Icons）
 > [GlyhIcons](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols. Icons are designed primarily for toolbars and navigation bars in OS X, the applications for iPhone, iPad and other Apple devices.
 
 ![Searchable GlyphIcons Stencil](STATIC/GlypyIcons.png)
 
-使用方法：安装 [GlyphIcons](http://glyphicons.com/fonts/glyphicons-regular.ttf) 字体；安装 [GlyphIcons Halflings](http://glyphicons.com/fonts/glyphicons-halflings-regular.ttf) 字体；安装 [GlyphIcons Social](http://glyphicons.com/fonts/glyphicons-social-regular.ttf) 字体；安装 [GlyphIcons Filetypes](http://glyphicons.com/fonts/glyphicons-filetypes-regular.ttf) 字体；下载 [GlyphIcons Stencil](GlyphIcons192.gStencil?raw=true) 模板。
+使用方法：安装 [GlyphIcons](http://glyphicons.com/fonts/glyphicons-regular.ttf) 字体；安装 [GlyphIcons Halflings](http://glyphicons.com/fonts/glyphicons-halflings-regular.ttf) 字体；安装 [GlyphIcons Social](http://glyphicons.com/fonts/glyphicons-social-regular.ttf) 字体；安装 [GlyphIcons Filetypes](http://glyphicons.com/fonts/glyphicons-filetypes-regular.ttf) 字体；下载 [GlyphIcons Stencil](Stencils/GlyphIcons192.gStencil?raw=true) 模板。
 
 ## gStencil：Google Material Design Icons 2.2.2 Stencil（932 Icons）
 
@@ -35,7 +35,7 @@
 
 ![Searchable Google Material Icons](STATIC/MaterialIcons.png)
 
-使用方法：安装 [Material Icons](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/MaterialIcons-Regular.ttf) 字体；下载 [Material Icons Stencil](MaterialIcons222.gStencil?raw=true) 模板。
+使用方法：安装 [Material Icons](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/MaterialIcons-Regular.ttf) 字体；下载 [Material Icons Stencil](Stencils/MaterialIcons222.gStencil?raw=true) 模板。
 
 ## gTemplate：BlueMap
 
