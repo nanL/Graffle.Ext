@@ -4,6 +4,7 @@
 > Searchable Support !!
 > 
 > Updates:
+> + 2016.05.06 更新 Font Awesome 4.6.2
 > + 2016.02.28 新增 Google Material Icons 2.2.2
 > + 2016.01.24 更新 GlyhIcons 1.9.2
 > + 2015.11.29 更新 Font Awesome 4.5.0
@@ -14,7 +15,7 @@
 > + 2014.09.29 新增 GlyhIcons 1.8.1
 > + 2014.09.24 新增 Font Awesome 4.2.0
 
-## gStencil：Font Awesome 4.5.0 Stencil （605 Icons）
+## gStencil：Font Awesome 4.6.2 Stencil （632 Icons）
 > [Font Awesome](http://fortawesome.github.io/Font-Awesome/) gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
 ![Searchable Font Awesome Stencil](STATIC/FontAwesome.png)
