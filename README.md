@@ -4,6 +4,7 @@
 > Searchable Support !!
 > 
 > Updates:
+> + 2016.05.18 更新 Font Awesome 4.6.3
 > + 2016.05.06 更新 Font Awesome 4.6.2
 > + 2016.02.28 新增 Google Material Icons 2.2.2
 > + 2016.01.24 更新 GlyhIcons 1.9.2
@@ -15,12 +16,12 @@
 > + 2014.09.29 新增 GlyhIcons 1.8.1
 > + 2014.09.24 新增 Font Awesome 4.2.0
 
-## gStencil：Font Awesome 4.6.2 Stencil （632 Icons）
+## gStencil：Font Awesome 4.6.3 Stencil （634 Icons）
 > [Font Awesome](http://fortawesome.github.io/Font-Awesome/) gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
 ![Searchable Font Awesome Stencil](STATIC/FontAwesome.png)
 
-使用方法：安装 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf) 字体；下载 [Font Awesome Stencil](Stencils/FontAwesome450.gStencil?raw=true) 模板。
+使用方法：安装 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf) 字体；下载 [Font Awesome Stencil](Stencils/FontAwesome463.gStencil?raw=true) 模板。
 
 ## gStencil：GlyhIcons 1.9.2 Stencil （1310 Icons）
 > [GlyhIcons](http://glyphicons.com/) is a library of precisely prepared monochromatic icons and symbols. Icons are designed primarily for toolbars and navigation bars in OS X, the applications for iPhone, iPad and other Apple devices.
