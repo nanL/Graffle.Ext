@@ -40,6 +40,12 @@
 
 使用方法：安装 [Material Icons](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/MaterialIcons-Regular.ttf) 字体；下载 [Material Icons Stencil](Stencils/MaterialIcons222.gStencil?raw=true) 模板。
 
+## gStencil：WeUI
+
+>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+
+![WeUI Stencil](STATIC/WeUI.png)
+
 ## gTemplate：BlueMap
 
 > 蓝图模板，网页应用及移动应用模板。
