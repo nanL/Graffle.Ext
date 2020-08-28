@@ -4,6 +4,7 @@
 > Searchable Support !!
 > 
 > Updates:
+> + 2018.08.28 新增 Google Material Icons 3.0.2
 > + 2016.10.29 更新 Font Awesome 4.7.0
 > + 2016.05.18 更新 Font Awesome 4.6.3
 > + 2016.05.06 更新 Font Awesome 4.6.2
@@ -31,14 +32,14 @@
 
 使用方法：安装 [GlyphIcons](http://glyphicons.com/fonts/glyphicons-regular.ttf) 字体；安装 [GlyphIcons Halflings](http://glyphicons.com/fonts/glyphicons-halflings-regular.ttf) 字体；安装 [GlyphIcons Social](http://glyphicons.com/fonts/glyphicons-social-regular.ttf) 字体；安装 [GlyphIcons Filetypes](http://glyphicons.com/fonts/glyphicons-filetypes-regular.ttf) 字体；下载 [GlyphIcons Stencil](Stencils/GlyphIcons192.gStencil?raw=true) 模板。
 
-## gStencil：Google Material Design Icons 2.2.2 Stencil（932 Icons）
+## gStencil：Google Material Design Icons 3.0.2 Stencil（932 Icons）
 
 > [Google Material Icons](https://design.google.com/icons/) are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
 > Material design icons are the official icon set from Google.
 
 ![Searchable Google Material Icons](STATIC/MaterialIcons.png)
 
-使用方法：安装 [Material Icons](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/MaterialIcons-Regular.ttf) 字体；下载 [Material Icons Stencil](Stencils/MaterialIcons222.gStencil?raw=true) 模板。
+使用方法：安装 [Material Icons](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/MaterialIcons-Regular.ttf) 字体；下载 [Material Icons Stencil](Stencils/MaterialIcons302.gStencil?raw=true) 模板。
 
 ## gStencil：WeUI
 
